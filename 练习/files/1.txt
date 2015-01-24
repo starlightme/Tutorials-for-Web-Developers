@@ -1,0 +1,5 @@
+This is file with several lines
+some of which are blank lines
+for example, the line that follows is blank
+but this line has several characters.
+And this marks the end of the file.
